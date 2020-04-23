@@ -2,6 +2,9 @@
  precision highp float;
  sd  ds 
 
+ 3.0版本更新
+ 4.0版本更新
+
 
   //varying vec2 textureCoordinate;
   varying vec2 textureCoordinate;
