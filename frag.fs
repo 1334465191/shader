@@ -2,7 +2,7 @@
  precision highp float;
  sd  ds 
 
- 3.0版本更新王企鹅github
+ 3.0版本更新王企鹅desktop
  4.0版本手打
  5.版本更新洗洗
 ---------------------------------------test start
